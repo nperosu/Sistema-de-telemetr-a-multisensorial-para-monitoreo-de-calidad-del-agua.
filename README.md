@@ -10,7 +10,7 @@ proyecto subvencionado dentro de los Proyectos de innovación en digitalización
 
 | Código | Sensor | Archivo |
 |---|---|---|
-| SEN0169 | Sensor de pH analógico PRO | [SEN0169.ino](SEN0169.ino) |
+| SEN0169 | Sensor de pH analógico PRO | [sensores/SEN0169.ino](SEN0169.ino) |
 | SEN0189 | Sensor de turbidez analógico | [SEN0189.ino](SEN0189.ino) |
 | SEN0237 | Sensor de oxígeno disuelto | [SEN0237.ino](SEN0237.ino) |
 | SEN0244 | Sensor TDS | [SEN0244.ino](SEN0244.ino) |
