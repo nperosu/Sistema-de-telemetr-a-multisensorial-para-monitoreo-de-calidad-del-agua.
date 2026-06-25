@@ -39,5 +39,3 @@ Cada práctica permite al alumno:
 4. Seleccionar el puerto.
 5. Subir el programa.
 6. Abrir el monitor serie.
-├── SEN0169.ino
-└── README.md
