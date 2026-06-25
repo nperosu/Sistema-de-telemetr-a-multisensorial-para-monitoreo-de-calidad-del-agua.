@@ -1,4 +1,4 @@
-# Sistema de telemeria multisensorial para la calidad del agua.
+# Sistema de telemetria multisensorial para la calidad del agua.
 <p align="center">
   <img src="cabecera.png" width="850">
 </p>
