@@ -6,7 +6,7 @@
   DFRobot SEN0507 Sensor liquido tubo
   Board: FireBeetle 2 ESP32-E
   Signal pin: A2 / GPIO34
-  MQTT topic: etap/etapa/ph
+  MQTT topic: etap/etapa/nivel_tubo
 */
 
 #define LEVEL_PIN 2
