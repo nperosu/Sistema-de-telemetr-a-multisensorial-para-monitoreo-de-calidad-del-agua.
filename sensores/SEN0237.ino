@@ -9,7 +9,7 @@ sensor usa: agua_bruta, floculacion, acondicionado,control_calidad):
   DFRobot SEN0237 Oxigeno disuelto
   Board: FireBeetle 2 ESP32-E
   Signal pin: A2 / GPIO34
-  MQTT topic: etap/etapa/ph
+  MQTT topic: etap/etapa/oxigeno
 */
 
 #define DO_PIN 34
