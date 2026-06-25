@@ -3,7 +3,7 @@
 Repositorio creado dentro del proyecto Sistema de telemetría multisensorial para monitoreo de la calidad del agua, 
 proyecto subvencionado dentro de los Proyectos de innovación en digitalización aplicada (Medida 3.e.14 ) 
 
-# 🌊 Laboratorio de Sensores de Agua con Arduino / ESP32
+# 🌊 Laboratorio de Sensores de monitorización de la calidad del agua.
 
 Repositorio de prácticas para probar sensores DFRobot con Arduino IDE.
 
@@ -28,7 +28,7 @@ Cada práctica permite al alumno:
 
 ## 🛠️ Material necesario
 - Arduino IDE
-- Placa Arduino / ESP32 / FireBeetle
+- Placa Arduino / ESP32 / FireBeetle / Edge101
 - Cable USB
 - Sensor correspondiente
 
