@@ -11,7 +11,7 @@ el sensor; usa: agua_bruta, floculacion, acondicionado,control_calidad
   DFRobot SEN0189 Turbidez
   Board: FireBeetle 2 ESP32-E
   Signal pin: A2 / GPIO34
-  MQTT topic: etap/etapa/ph
+  MQTT topic: etap/etapa/turbidez
 */
 
 
