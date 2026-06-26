@@ -30,7 +30,7 @@ Cada práctica permite al alumno:
 
 ## 🛠️ Material necesario
 - Arduino IDE
-- Placa Arduino / ESP32 / FireBeetle / Edge101
+- Placa Arduino / ESP32 / FireBeetle / Edge101 [Manual de plataformas](sensores/plataformas.pdf)
 - Cable USB
 - Sensor correspondiente
 
