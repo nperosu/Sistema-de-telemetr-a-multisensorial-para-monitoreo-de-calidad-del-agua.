@@ -14,12 +14,12 @@ Repositorio de prácticas para probar sensores DFRobot con Arduino IDE.
 | Código | Sensor | Código funcionamiento | Info |
 |---|---|---|---|
 | SEN0169 | Sensor de pH analógico PRO | [SEN0169.ino](sensores/SEN0169.ino) | [SEN0169.pdf](sensores/SEN0169.pdf) |
-| SEN0189 | Sensor de turbidez analógico | [SEN0189.ino](sensores/SEN0189.ino) | [SEN0169.pdf](sensores/SEN0189.pdf) |
-| SEN0237 | Sensor de oxígeno disuelto | [SEN0237.ino](sensores/SEN0237.ino) | [SEN0169.pdf](sensores/SEN0237.pdf) |
-| SEN0244 | Sensor TDS | [SEN0244.ino](sensores/SEN0244.ino) | [SEN0169.pdf](sensores/SEN0244.pdf) |
-| SEN0507 | Sensor capacitivo de nivel industrial | [SEN0507.ino](sensores/SEN0507.ino) | [SEN0169.pdf](sensores/SEN0507.pdf) |
-| SEN0509 | Sensor capacitivo de nivel para tubo de 6 mm | [SEN0509.ino](sensores/SEN0509.ino) | [SEN0169.pdf](sensores/SEN0509.pdf) |
-| SEN0681 | Sensor de oxígeno disuelto RS485 | [SEN0681.ino](sensores/SEN0681.ino) | [SEN0169.pdf](sensores/SEN0681.pdf) |
+| SEN0189 | Sensor de turbidez analógico | [SEN0189.ino](sensores/SEN0189.ino) | [SEN0189.pdf](sensores/SEN0189.pdf) |
+| SEN0237 | Sensor de oxígeno disuelto | [SEN0237.ino](sensores/SEN0237.ino) | [SEN0237.pdf](sensores/SEN0237.pdf) |
+| SEN0244 | Sensor TDS | [SEN0244.ino](sensores/SEN0244.ino) | [SEN0244.pdf](sensores/SEN0244.pdf) |
+| SEN0507 | Sensor capacitivo de nivel industrial | [SEN0507.ino](sensores/SEN0507.ino) | [SEN0507.pdf](sensores/SEN0507.pdf) |
+| SEN0509 | Sensor capacitivo de nivel para tubo de 6 mm | [SEN0509.ino](sensores/SEN0509.ino) | [SEN0509.pdf](sensores/SEN0509.pdf) |
+| SEN0681 | Sensor de oxígeno disuelto RS485 | [SEN0681.ino](sensores/SEN0681.ino) | [SEN0681.pdf](sensores/SEN0681.pdf) |
 
 ## 🧪 Objetivo
 Cada práctica permite al alumno:
