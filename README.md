@@ -34,7 +34,7 @@ Cada práctica permite al alumno:
 - Cable USB
 - Sensor correspondiente
 
-## 🚀 Cómo usar
+## 🚀 Pruebas testeo
 1. Abrir la carpeta del sensor.
 2. Abrir el archivo `.ino`.
 3. Seleccionar la placa en Arduino IDE.
