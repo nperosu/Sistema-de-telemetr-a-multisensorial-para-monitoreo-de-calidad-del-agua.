@@ -12,7 +12,7 @@ Repositorio de prácticas para probar sensores DFRobot con Arduino IDE.
 ## 📦 Sensores disponibles
 
 | Código | Sensor | Archivo | Info |
-|---|---|---|
+|---|---|---|---|
 | SEN0169 | Sensor de pH analógico PRO | [SEN0169.ino](sensores/SEN0169.ino) | [SEN0169.pdf](sensores/SEN0169.pdf) |
 | SEN0189 | Sensor de turbidez analógico | [SEN0189.ino](sensores/SEN0189.ino) |
 | SEN0237 | Sensor de oxígeno disuelto | [SEN0237.ino](sensores/SEN0237.ino) |
