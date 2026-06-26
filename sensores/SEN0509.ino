@@ -5,7 +5,7 @@
   Proyecto: Sistemas de telemetría multisensorial para monitoreo de la calidad del agua.
   DFRobot SEN0507 Sensor liquido tubo
   Board: FireBeetle 2 ESP32-E
-  Signal pin: A2 / GPIO34
+  Signal pin: Digital pin 2
   MQTT topic: etap/etapa/nivel_tubo
 */
 
